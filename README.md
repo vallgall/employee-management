@@ -72,9 +72,9 @@ cd employee-management
 3. Ejecutar inserts:
 - **Importa el archivo employee_management.sql en MySQL para agregar los registros necesarios. Utiliza la herramienta de tu elección (como phpMyAdmin o la línea de comandos de MySQL).**
 ### Iniciar el Servidor
-    ```
-    php artisan serve
-    ```
+```
+php artisan serve
+ ```
 2. Compila los activos con npm:
 1. Inicia el servidor de desarrollo de Laravel:
 - **En otra terminal, ejecuta:**
